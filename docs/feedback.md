@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+prev: /
 ---
 
 # 意见反馈
@@ -10,7 +11,7 @@ sidebar: auto
 
 ### 使用 GitHub Issues <Badge type="tip" text="Suggested" vertical="top" />
 
-1. 如果已有`GitHub`账号可跳过此步。打开[GitHub](https://github.com/), 点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
+1. **如果已有`GitHub`账号可跳过此步**。打开[GitHub](https://github.com/), 点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
 2. 点击进入[项目仓库](https://github.com/FyisFe/CityU-Wiki)，点击`Issues`按钮。 ![](./images/repo-issue.jpg)
 3. 点击`New Issue`。 ![](./images/new-issue.jpg)
 4. 填写`title`、`comments`，点击`Submit new issue`。 ![](./images/submit-issue.jpg)
@@ -27,7 +28,7 @@ sidebar: auto
 
 ### 使用 GitHub Discussions <Badge type="tip" text="Suggested" vertical="top" />
 
-1. 如果已有`GitHub`账号可跳过此步。打开[GitHub](https://github.com/), 点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
+1. **如果已有`GitHub`账号可跳过此步**。打开[GitHub](https://github.com/), 点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
 2. 点击进入[项目仓库](https://github.com/FyisFe/CityU-Wiki)，点击`Discussions`按钮。 ![](./images/repo-disc.jpg)
 3. 在相应的`Category`中点击`New discussion`。 ![](./images/new-disc.jpg)
 
