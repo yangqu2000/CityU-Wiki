@@ -112,6 +112,13 @@ prev: /
 3. 请在确保`Allow edits from maintainers`是被选中状态，这样我们可以帮助你解决一些琐碎工作。点击 `Create pull request` 按钮。
    ![](./images/contribute-submit.jpg)
 
+### 编辑文件
+
+:::tip
+如果您想对任何页面进行编辑，请在`GitHub`找到相应的文件并点击`Edit this file`进行修改，或直接在`CityU Wiki`网站中点击`Edit this page`，之后的步骤与以上完全相同。
+![](./images/contribute-edit.jpg)
+:::
+
 ## 本地贡献 <Badge type="tip" text="Advanced" vertical="top" />
 
 **Love u guys!**
