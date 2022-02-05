@@ -32,6 +32,8 @@ prev: /
 
 ## 使用 GitHub 网站进行贡献 <Badge type="tip" text="Easy" vertical="top" />
 
+您可以使用 [GitHub](https://github.com) 网站进行贡献，本质上就像在贴吧/城墙发贴。
+
 ### 登陆
 
 **如果已有`GitHub`账号可跳过此步**。打开[GitHub](https://github.com/), 点击`Sign Up`按钮注册一个`Github`账号，选择`Free Plan`即可。
@@ -51,8 +53,24 @@ prev: /
 
 1.  命名方式为`[US]-MS-22-zhangsan.md` 即为工学院，22 年申请到美国 Master 项目的 zhangsan 的经验分享。**请包含后缀名**。
 2.  在文件中写入你的经验分享 (Markdown)。
+
     1. **如果您不会使用 `Markdown`，可以参考[这个页面](https://www.runoob.com/markdown/md-tutorial.html)。**
     2. **当然，您也可以直接像使用`txt`文件一样来进行编写，我们会进行后续的格式整理。**
+       :::tip
+       请在段落间使用空行分割，并在标题上使用`#`标记。
+
+       ```md
+       # 一级标题
+
+       段落 1
+
+       ## 二级标题
+
+       段落 2
+       ```
+
+       :::
+
 3.  以下为一个简易模板，**您也可以借鉴已有文件的内容**
 
 ```md
@@ -102,7 +120,7 @@ prev: /
 2. Make sure you have [Node.js v12+](https://nodejs.org/en/)
 3. `git clone forked-repo`
 
-Then you can run this project:
+Then you can run this project by:
 <CodeGroup>
 <CodeGroupItem title="YARN">
 
@@ -122,3 +140,5 @@ npm run docs:dev
 
   </CodeGroupItem>
 </CodeGroup>
+
+This project is built with [vuepress](https://v2.vuepress.vuejs.org/) under the hood.
