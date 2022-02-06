@@ -16,17 +16,20 @@ prev: /
 ```sh
 ├── .vuepress
 │   ├── config.js # 配置文件
+│   ├── configs # 配置目录
+│   │   ├── sidebar.js # 侧边栏配置
+│   │   └── navbar.js # 导航栏配置
 ├── grad-application # 个人申请总结
 │   ├── College of Engineering # 工学院
 │   │   ├── README.md # 目录
-│   │   ├── [US]-MS-22-zhangsan.md # 工学院，22年申请到美国Master项目的zhangsan的经验分享
+│   │   └── [US]-MS-22-zhangsan.md # 工学院，22年申请到美国Master项目的zhangsan的经验分享
 ├── internship
 │   ├── campus # 校内实习
 │   │   ├── README.md # 目录
-│   │   ├── [CS]-22-zhangsan.md # 22年校内CS Depart实习的zhangsan的经验分享
+│   │   └── [CS]-22-zhangsan.md # 22年校内CS Depart实习的zhangsan的经验分享
 │   ├── it # 互联网实习
 │   │   ├── README.md # 目录
-│   │   ├── [Google]-22-zhangsan.md # 22年Google实习的zhangsan的经验分享
+│   │   └──[Google]-22-zhangsan.md # 22年Google实习的zhangsan的经验分享
 
 ```
 
