@@ -54,3 +54,10 @@ sidebar: false
    - 请附上**经历发生的时间,姓名（或模糊化的名字）,经历名称**。例如,`2022-不愿意透露姓名的张三-PwC`。
 2. 对于熟悉 GitHub 或者想**尝试使用**的同学：我们编辑了一份**详细全面**的教程[《如何进行经验分享》](./contributing.md)供大家参考。请注意文件名请全部使用英文并符合之前的模板，不允许有空格，请使用-代替空格。
 3. 如需更新内容，请通过[意见反馈](./feedback.md)及时联系我们！
+
+### 友情链接
+
+- [一亩三分地--北美申请论坛](http://www.1point3acres.com/)
+- [美国本土申请结果汇报论坛](https://www.thegradcafe.com/)
+- [Grantome 美国教授科研经费查询](https://grantome.com/search)
+- [NIH 美国教授科研经费查询](https://report.nih.gov/)
