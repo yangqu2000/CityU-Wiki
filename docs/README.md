@@ -22,14 +22,14 @@ sidebar: false
 
 这本书包括一下几个模块：
 
-- **:man_student: 个人申请总结**：汇总了各个专业学长姐的申请经验，包括**Master, PhD, 就业**等各种出路。
-- **:man_health_worker: 实习**：包括实习项目推荐，前期准备等经验分享。
-- **:scientist: 科研**：暑研, 如何开始 research，以及经验分享。
-- **:ocean: 海外项目**：包括交换，暑校，转学，**2+2** 等项目。
-- **:notebook: 转专业**：包含转专业，**double major, multi minor**等经验。
-- **:speaking_head: 语言学习**：总结 GRE, TOEFL, IELTS, 粤语等语言学习经验。
-- **:dollar: 奖学金申请**：介绍城大各类奖学金，以及毕业后 Master, PhD 等项目的奖学金申请经验。
-- **:spiral_calendar: 其他**：未被以上模块列出的其他经验分享。
+- **:man_student: [个人申请总结](/grad-application/college-of-engineering/README.md)**：汇总了各个专业学长姐的申请经验，包括**Master, PhD, 就业**等各种出路。
+- **:man_health_worker: [实习](/internship/it/README.md)**：包括实习项目推荐，前期准备等经验分享。
+- **:scientist: [科研](/research/on-campus/README.md)**：暑研, 如何开始 research，以及经验分享。
+- **:ocean: [海外项目](/oversea/two-plus-two/README.md)**：包括交换，暑校，转学，**2+2** 等项目。
+- **:notebook: [转专业与多主修辅修](/major-minor/change-major/README.md)**：包含转专业，**double major, multi minor**等经验。
+- **:dollar: [奖学金申请](/scholarship/on-campus/README.md)**：介绍城大各类奖学金，以及毕业后 Master, PhD 等项目的奖学金申请经验。
+- **:speaking_head: [语言学习](/language/gre/README.md)**：总结 GRE, TOEFL, IELTS, 粤语等语言学习经验。
+- **:spiral_calendar: [其他](/others/README.md)**：未被以上模块列出的其他经验分享。
 
 需要特别指出的是，书中的内容具有一定的**时效性**。比如**申请**方面，一些热门专业每年的申请形式都会发生极大变化，再比如当我们谈及“xx 专业 21fall 是史上最难申请/找工作的一年”，但可能 22fall 会更难。或者是**转专业, double major**等方面，学校的政策也可能会有所改变。所以大家在参考时请一定注意！
 
@@ -43,17 +43,23 @@ sidebar: false
 
 ### 如何贡献
 
-我们支持大家根据**自己的隐私需求**进行模糊处理，希望大家可以**没有后顾之忧**的进行分享，包括但不限于：
+:::tip
+**请不要过分在意文章的质量（~~当然还是得稍微在意一下~~）与长度。哪怕是您的一点随笔都是后人的宝贵财富！**
+:::
+
+我们支持大家根据**自己的隐私需求**进行模糊处理，希望大家可以**没有后顾之忧**的分享，包括但不限于：
 
 - **姓名，成绩，性别，GT 等**
 - **选择性留邮箱或者其他投稿人觉得有利于保护自己隐私的方法**
 
-1. 对于没有 Git, GitHub 使用背景的同学：请将编辑好的`Word/Pages`文件发送到**cityuwiki AT 寄 mail DOT com**(~~不想被爬, 相信大家看得懂！~~), 并附上合适的标题，我们会帮助您把文章上线。
-   - 请注明您的文章想发表的位置。
-   - 如果想发表到新的类别，请在邮件中提出。
-   - 请附上**经历发生的时间,姓名（或模糊化的名字）,经历名称**。例如,`2022-不愿意透露姓名的张三-PwC`。
-2. 对于熟悉 GitHub 或者想**尝试使用**的同学：我们编辑了一份**详细全面**的教程[《如何进行经验分享》](./contributing.md)供大家参考。请注意文件名请全部使用英文并符合之前的模板，不允许有空格，请使用-代替空格。
-3. 如需更新内容，请通过[意见反馈](./feedback.md)及时联系我们！
+**我们提供了以下四种分享经验的方式，以由简易到繁琐，死板到灵活排序，请根据自身需求选择：**
+
+1. [Google Form](https://forms.gle/6KzthXnnAgh3Ckx98)
+2. [Email](/contributing.md#使用-email)
+3. [GitHub 网页](/contributing.md#使用-github-网站进行贡献)
+4. [本地贡献](/contributing.md#本地贡献)
+
+**如发现 Bug，需更新内容，或者意见与建议，请通过[意见反馈](./feedback.md)及时联系我们！**
 
 ### 友情链接
 

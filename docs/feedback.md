@@ -7,7 +7,11 @@ prev: /
 
 ## 发现 Bug :red_circle:
 
-如果你发现了网站的 bug，请使用一下两种方法进行反馈。
+如果你发现了网站的 bug，请任意使用以下三种方法进行反馈。
+
+### 使用[Google Form](https://forms.gle/EvNQV11cBsgwP8q17)
+
+> 可能是对大家最方便的方法 lol。
 
 ### 使用 GitHub Issues <Badge type="tip" text="Suggested" vertical="top" />
 
@@ -25,6 +29,10 @@ prev: /
 :::
 
 ## 建议和疑问 :tada:
+
+### 使用[Google Form](https://forms.gle/EvNQV11cBsgwP8q17)
+
+> 可能是对大家最方便的方法 lol。
 
 ### 使用 GitHub Discussions <Badge type="tip" text="Suggested" vertical="top" />
 

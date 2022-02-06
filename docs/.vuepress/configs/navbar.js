@@ -7,16 +7,16 @@ const navbar = [
         link: '/grad-application/college-of-engineering/README.md',
       },
       {
-        text: '海外项目',
-        link: '/oversea/two-plus-two/README.md',
-      },
-      {
         text: '实习分享',
         link: '/internship/it/README.md',
       },
       {
         text: '科研',
         link: '/research/on-campus/README.md',
+      },
+      {
+        text: '海外项目',
+        link: '/oversea/two-plus-two/README.md',
       },
       {
         text: '转专业与多主修辅修',
