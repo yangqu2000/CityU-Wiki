@@ -28,7 +28,7 @@ sidebar: false
 - **:ocean: [海外项目](/oversea/two-plus-two/README.md)**：包括交换，暑校，转学，**2+2** 等项目。
 - **:notebook: [转专业与多主修辅修](/major-minor/change-major/README.md)**：包含转专业，**double major, multi minor**等经验。
 - **:dollar: [奖学金申请](/scholarship/on-campus/README.md)**：介绍城大各类奖学金，以及毕业后 Master, PhD 等项目的奖学金申请经验。
-- **:speaking_head: [语言学习](/language/gre/README.md)**：总结 GRE, TOEFL, IELTS, 粤语等语言学习经验。
+- **:speaking_head: [语言学习](/language/gre/README.md)**：总结 GRE, TOEFL, IELTS, 粤语等语言学习经验。~~(知乎太多软广硬广了...)~~
 - **:spiral_calendar: [其他](/others/README.md)**：未被以上模块列出的其他经验分享。
 
 需要特别指出的是，书中的内容具有一定的**时效性**。比如**申请**方面，一些热门专业每年的申请形式都会发生极大变化，再比如当我们谈及“xx 专业 21fall 是史上最难申请/找工作的一年”，但可能 22fall 会更难。或者是**转专业, double major**等方面，学校的政策也可能会有所改变。所以大家在参考时请一定注意！
