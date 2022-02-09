@@ -94,7 +94,7 @@ const sidebar = [
       {
         text: '校内',
         link: '/research/on-campus/',
-        children: [],
+        children: ['/research/on-campus/[CS]-18-zhangjingwei.md'],
       },
       {
         text: '暑研',
@@ -110,7 +110,7 @@ const sidebar = [
       {
         text: '转专业',
         link: '/major-minor/change-major/',
-        children: [],
+        children: ['/major-minor/change-major/[ACE2CS]-18-zhangjingwei.md'],
       },
       {
         text: '多主修辅修',

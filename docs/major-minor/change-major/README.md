@@ -1,3 +1,3 @@
 # 转专业
 
-- to be continue
+- [《ACE to CS》](./[ACE2CS]-18-zhangjingwei) by 18-CS-ZHANG Jingwei
