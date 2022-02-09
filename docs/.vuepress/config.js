@@ -4,7 +4,8 @@ const { navbar } = require('./configs/navbar.js');
 module.exports = {
   lang: 'zh-CN',
   title: 'CityU Wiki',
-  description: 'A comprehensive guide for CityU undergraduate students',
+  description:
+    'CityU Wiki is a comprehensive guide for CityU undergraduate students',
   head: [['link', { rel: 'icon', href: '/images/logo-dark.svg' }]],
   theme: '@vuepress/theme-default',
   themeConfig: {

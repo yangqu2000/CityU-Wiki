@@ -73,7 +73,7 @@ const sidebar = [
       {
         text: '互联网',
         link: '/internship/it/',
-        children: [],
+        children: ['/internship/it/[GSoC]-2021-fengyi.md/'],
       },
       {
         text: '金融',
