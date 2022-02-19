@@ -5,6 +5,8 @@ prev: /major-minor/change-major/
 
 # ACE to CS
 
+> Author: ZHANG Jingwei
+
 ## 背景
 
 > 时间： 大一结束递交申请

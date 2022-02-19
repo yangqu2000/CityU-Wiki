@@ -5,6 +5,8 @@ prev: /research/on-campus/
 
 # Machine Learning 向科研
 
+> Author: ZHANG Jingwei
+
 ## 背景
 
 我的科研经历大多都和 Machine Learning 相关, 本科四年大概有三段经历可以算接触科研，但从我的感觉直到大四做 Research FYP 才算真实了解科研。

@@ -73,7 +73,7 @@ const sidebar = [
       {
         text: '互联网',
         link: '/internship/it/',
-        children: ['/internship/it/[GSoC]-2021-fengyi.md/'],
+        children: ['/internship/it/[GSoC]-2018-fengyi.md/'],
       },
       {
         text: '金融',
@@ -94,7 +94,7 @@ const sidebar = [
       {
         text: '校内',
         link: '/research/on-campus/',
-        children: ['/research/on-campus/[CS]-18-zhangjingwei.md'],
+        children: ['/research/on-campus/[CS]-2018-zhangjingwei.md'],
       },
       {
         text: '暑研',
@@ -110,7 +110,7 @@ const sidebar = [
       {
         text: '转专业',
         link: '/major-minor/change-major/',
-        children: ['/major-minor/change-major/[ACE2CS]-18-zhangjingwei.md'],
+        children: ['/major-minor/change-major/[ACE2CS]-2018-zhangjingwei.md'],
       },
       {
         text: '多主修辅修',
@@ -147,7 +147,7 @@ const sidebar = [
       {
         text: 'TOEFL',
         link: '/language/toefl/',
-        children: ['/language/toefl/[CS]-2021-fengyi.md'],
+        children: ['/language/toefl/[CS]-2018-fengyi.md'],
       },
       {
         text: 'IELTS',

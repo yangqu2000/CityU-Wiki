@@ -5,6 +5,8 @@ prev: /internship/it/
 
 # Google Summer of Code 2021
 
+> Author: FENG Yi
+
 > 项目时长: 10 Weeks
 >
 > 工时: About 175 hours
