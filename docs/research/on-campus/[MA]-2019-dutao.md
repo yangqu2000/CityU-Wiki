@@ -1,12 +1,12 @@
 ---
 sidebar: auto
-prev: /research/on-campus
+prev: /research/on-campus/
 contributors: false
 ---
 
 # 图像处理，区块链，交易系统
 
-> Author: Du tao
+> Author: Du Tao
 
 ## 个人信息
 

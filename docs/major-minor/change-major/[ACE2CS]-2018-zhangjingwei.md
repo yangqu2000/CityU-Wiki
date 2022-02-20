@@ -1,6 +1,7 @@
 ---
 sidebar: auto
 prev: /major-minor/change-major/
+contributors: false
 ---
 
 # ACE to CS

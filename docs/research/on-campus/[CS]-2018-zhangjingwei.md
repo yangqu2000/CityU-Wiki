@@ -1,6 +1,7 @@
 ---
 sidebar: auto
 prev: /research/on-campus/
+contributors: false
 ---
 
 # Machine Learning 向科研
