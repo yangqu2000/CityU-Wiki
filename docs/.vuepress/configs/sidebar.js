@@ -94,7 +94,10 @@ const sidebar = [
       {
         text: '校内',
         link: '/research/on-campus/',
-        children: ['/research/on-campus/[CS]-2018-zhangjingwei.md'],
+        children: [
+          '/research/on-campus/[CS]-2018-zhangjingwei.md',
+          '/research/on-campus/[MA]-2019-dutao.md',
+        ],
       },
       {
         text: '暑研',

@@ -22,7 +22,7 @@ sidebar: false
 
 这本书包括一下几个模块：
 
-- **:man_student: [个人申请总结](/grad-application/college-of-engineering/README.md)**：汇总了各个专业学长姐的申请经验，包括**Master, PhD, 就业**等各种出路。
+- **:man_student: [个人申请总结](/grad-application/college-of-engineering/README.md)**：本校的 data points 才更具借鉴意义。因此我们汇总了各个专业学长姐的申请经验，包括**Master, PhD, 就业**等各种出路。
 - **:man_health_worker: [实习](/internship/it/README.md)**：包括实习项目推荐，前期准备等经验分享。
 - **:scientist: [科研](/research/on-campus/README.md)**：暑研, 如何开始 research，以及经验分享。
 - **:ocean: [海外项目](/oversea/two-plus-two/README.md)**：包括交换，暑校，转学，**2+2** 等项目。
