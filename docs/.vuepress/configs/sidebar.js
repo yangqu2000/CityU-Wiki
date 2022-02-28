@@ -113,7 +113,10 @@ const sidebar = [
       {
         text: '转专业',
         link: '/major-minor/change-major/',
-        children: ['/major-minor/change-major/[ACE2CS]-2018-zhangjingwei.md'],
+        children: [
+          '/major-minor/change-major/[ACE2CS]-2018-zhangjingwei.md',
+          '/major-minor/change-major/[MNE2CS]-2018-wangyujia.md',
+        ],
       },
       {
         text: '多主修辅修',
