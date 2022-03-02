@@ -57,7 +57,7 @@ const sidebar = [
       {
         text: '交换与暑校',
         link: '/oversea/exchange/',
-        children: [],
+        children: ['/oversea/exchange/[BATVB]-2018-wangshuyue.md'],
       },
       {
         text: '转学',
@@ -84,6 +84,11 @@ const sidebar = [
         text: '校内兼职',
         link: '/internship/campus/',
         children: [],
+      },
+      {
+        text: '多段跨行业实习总结',
+        link: '/internship/summary/',
+        children: ['/internship/summary/[BATVB]-2018-wangshuyue.md'],
       },
     ],
   },

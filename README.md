@@ -23,3 +23,7 @@ yarn install
 npm run docs:dev #or
 yarn docs:dev
 ```
+
+## How To Contribute
+
+[贡献指南](https://www.cityuwiki.com/contributing.html)

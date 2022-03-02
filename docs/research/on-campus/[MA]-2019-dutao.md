@@ -6,7 +6,7 @@ contributors: false
 
 # 图像处理，区块链，交易系统
 
-> Author: Du Tao
+> Author: DU Tao
 
 ## 个人信息
 
