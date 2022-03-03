@@ -30,5 +30,12 @@ prev: /
 
 </div>
 
-- 18-BATVB-WANG Shuye
+- 18-TVB-WANG Shuye
+- 18-TVB-ZHANG Bingjie
 - 19-MA-DU Tao
+
+## Feedback
+
+感谢以下同学对`CityU Wiki`的建议！
+
+- 19-Finance/IS-WANG Chenqi

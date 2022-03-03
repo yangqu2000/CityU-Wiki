@@ -6,6 +6,8 @@ contributors: false
 
 # 互联网，风投，pr agency
 
+> Author: WANG Shuyue
+
 ## 个人信息
 
 > 学院: 人文社会科学院

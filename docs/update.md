@@ -5,8 +5,9 @@ prev: /
 
 # 最新更新
 
-- [2022-03-02] [《互联网，风投，pr agency 实习》](/internship/summary/[BATVB]-2018-wangshuyue.md) by 18-BATVB-WANG Shuyue
-- [2022-03-02] [《UC Berkeley Summer School》](/oversea/exchange/[BATVB]-2018-wangshuyue.md) by 18-BATVB-WANG Shuyue
+- [2022-03-03] [《Linkedin China, 南华早报等实习》](/internship/media/[TVB]-2018-zhangbingjie.md) by 18-TVB-ZHANG Bingjie
+- [2022-03-02] [《互联网，风投，pr agency 实习》](/internship/summary/[TVB]-2018-wangshuyue.md) by 18-TVB-WANG Shuyue
+- [2022-03-02] [《UC Berkeley Summer School》](/oversea/exchange/[TVB]-2018-wangshuyue.md) by 18-TVB-WANG Shuyue
 - [2022-02-28] [《MNE to CS》](/major-minor/change-major/[MNE2CS]-2018-wangyujia.md) by 18-CS-WANG Yujia
 - [2022-02-20] [《科研: 图像处理，区块链，交易系统》](/research/on-campus/[MA]-2019-dutao.md) by 19-MA-DU Tao
 - [2022-02-20] [《城大哥大双学位》](/oversea/two-plus-two/[CS]-2018-wuqianyi.md) by 18-CS-WU Qianyi
