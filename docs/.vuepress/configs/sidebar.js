@@ -52,7 +52,7 @@ const sidebar = [
       {
         text: '2+2',
         link: '/oversea/two-plus-two/',
-        children: [],
+        children: ['/oversea/two-plus-two/[CS]-2018-wuqianyi.md'],
       },
       {
         text: '交换与暑校',
