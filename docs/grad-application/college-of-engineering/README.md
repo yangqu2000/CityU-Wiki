@@ -6,7 +6,7 @@
 
 ## Master Program
 
-- to be continue
+- [CMU MS-SE-SV](./[US]-2018-fengyi.md) by 18-CS-FENG Yi
 
 ## PhD Program
 
