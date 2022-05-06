@@ -67,3 +67,4 @@ sidebar: false
 - [美国本土申请结果汇报论坛](https://www.thegradcafe.com/)
 - [Grantome 美国教授科研经费查询](https://grantome.com/search)
 - [NIH 美国教授科研经费查询](https://report.nih.gov/)
+- [CS Masters Application Book 计算机硕士出国申请](https://cs-masters-application.github.io/)
